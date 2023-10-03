@@ -1,0 +1,5 @@
+print("  .--.")
+print(" / oo \\")
+print("|  ^  |")
+print("| '-' |")
+print(" '---'")
